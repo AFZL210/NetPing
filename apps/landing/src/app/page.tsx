@@ -1,6 +1,6 @@
 const page = () => {
   return (
-    <div>page</div>
+    <div className='bg-red-500'>page</div>
   )
 }
 
